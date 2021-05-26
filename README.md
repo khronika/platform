@@ -1,2 +1,2 @@
-# khronikaplatform
+# Khronika Platform
 Khronika Platform
